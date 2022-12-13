@@ -1,0 +1,54 @@
+/* menu */
+.menu {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Images */
+.images {   
+    text-align: center;
+}
+
+img {
+    width: 43%;
+    margin: 5% 3%;
+    border: thin solid black;
+}
+
+/* Paragraphs */
+.parag {
+    overflow: hidden;
+}
+
+.r {
+    width: 45%;
+    float: left;
+    margin: 5% 3%;
+}
+.r-up {
+    border: thin solid black;
+    /* margin: 5% 3%; */
+}
+
+.r-down {
+    border: thin solid black;
+    margin: 5% 0%;
+}
+
+.l {
+    width: 40%;
+    float: right;
+    border: thin solid black;
+    /* margin: 2% 2%; */
+    margin: 5% 3%;
+}
+
+/* Background */
+.main-back {
+    width: 60%;
+    margin: 0 auto;
+    background-color: silver;
+}
